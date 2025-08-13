@@ -38,11 +38,11 @@ A comprehensive collection of Jupyter Notebooks and scripts for fine-tuning larg
 
    ```bash
    git clone https://github.com/KNclusive/LLM-Finetuning-Toolkit.git
-   cd LLM-Finetuning-Toolkit
+   cd Mistral/Code
    ```
 
 2. Install dependencies
    ```bash
    pip install -r requirements.txt
    ```
-3. Launch a Jupyter Notebook or open a notebook in Google Colab.
+3. Launch the Jupyter Notebook or open a notebook in Google Colab.
